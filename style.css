@@ -1,0 +1,18 @@
+.winner{
+    color: rgb(0, 146, 0);
+}
+
+.loser{
+    color: rgb(225, 12, 12);
+}
+
+.shadowe {
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .shadowee {
+
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.2), 0 0 4px 0 rgba(0, 0, 0, 0.19);
+  }
+  
